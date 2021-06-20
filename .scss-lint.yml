@@ -10,13 +10,13 @@ linters:
     enabled: true
 
   DeclarationOrder:
-    enabled: false
+    enabled: true
 
   ExtendDirective:
     enabled: true
 
   LeadingZero:
-    enabled: false
+    enabled: true
 
   NameFormat:
     enabled: true
